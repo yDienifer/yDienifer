@@ -34,12 +34,21 @@ object **Diênifer** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## 📈 Estatísticas
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
+<div align="center">
+  <a href="https://github.com/Ricmaloy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricmaloy&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricmaloy&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+## 🔥 Meus repos favoritos
+
+<div align="center">
+ <a href="https://github.com/Ricmaloy/FalaDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=FalaDev&theme=react&hide_border=true" />
 </a>
+<a href="https://github.com/Ricmaloy/NLW-7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=NLW-7&theme=react&hide_border=true" />
+</a>
+</div>
