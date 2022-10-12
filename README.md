@@ -1,12 +1,13 @@
-### Oie devs 👋
+<h1 align="center"> Opa, devs! <img align="center" width="45px" src="https://media.giphy.com/media/Cn29ivPFl9xleVTooX/giphy.gif"></h1>
+
 ![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
 
 <p align="center"> Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. </p>
 
-## <img align="right" width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <p> Mais sobre mim </p>
+## <img align="right" width="45px" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <p line-height="10px"> **Sobre mim** </p>
 
-<img align="left" width="190px" src="https://user-images.githubusercontent.com/108842368/195430390-0107f75b-50ca-4284-80bd-a5796a6f0309.gif">
+<img align="left" width="189px" src="https://user-images.githubusercontent.com/108842368/195430390-0107f75b-50ca-4284-80bd-a5796a6f0309.gif">
 
 ```kotlin
 object **Diênifer** {
