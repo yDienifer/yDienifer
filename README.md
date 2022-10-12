@@ -1,10 +1,12 @@
 ### Oie devs 👋
+![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+<p align="center"> Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. </p>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+## <img align="right" width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <p> Mais sobre mim </p>
+
+<img align="left" width="190px" src="https://user-images.githubusercontent.com/108842368/195430390-0107f75b-50ca-4284-80bd-a5796a6f0309.gif">
 
 ```kotlin
 object **Diênifer** {
@@ -13,7 +15,7 @@ object **Diênifer** {
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("HTML", "CSS", "JavaScript") 
-
+ 
 }
 ```
 
