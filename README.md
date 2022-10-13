@@ -3,7 +3,7 @@
 ![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
 
-> A programação é o meu refugio
+> Olá! Me chamo Diênifer, tenho 17 anos e, atualmente, curso front-end. Codando sempre junto do café, que vem acompanhado do rock.
 <img src="https://img.shields.io/static/v1?label=Overview&message=yDienifer&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 ## <img align="right" width="45px" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <p line-height="10px"> **Sobre mim** </p>
