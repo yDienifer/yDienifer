@@ -38,7 +38,7 @@ object **Diênifer** {
 
 </div>
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Estatísticas
 
 <div align="center">
   <a href="https://github.com/yDienifer">
