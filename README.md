@@ -38,25 +38,25 @@ object **Diênifer** {
 
 </div>
 
-## Estatísticas
+## Estatísticas 📈
 
 <div align="center">
   <a href="https://github.com/yDienifer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDienifer&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yDienifer&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDienifer&layout=compact&langs_count=7&theme=city_lights&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yDienifer&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
  ## <img width="32px" src="https://user-images.githubusercontent.com/108842368/195440656-ca754e6a-0526-4fbe-80d4-f0a29abcc255.gif"> Repositórios favoritos
 
 <div align="center">
  <a href="https://github.com/yDienifer/Landing-page-JoJo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yDienifer&repo=Landing-page-JoJo&theme=react&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yDienifer&repo=Landing-page-JoJo&theme=city_lights&hide_border=true"/>
 </a>
 </div>
 
-## Contate-me 
+## Meu contato 🌎
  
  <a href="https://github.com/yDienifer"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/dienifer.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="mailto:dienifersiqueira01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/di%C3%AAnifer-siqueira-08b4aa247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  
-![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yDienifer/yDienifer/blob/output/github-contribution-grid-snake.svg)
