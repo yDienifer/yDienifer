@@ -8,7 +8,7 @@
 
 ## <img align="right" width="45px" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <p line-height="10px"> **Sobre mim** </p>
 
-<img align="left" width="190px" src="https://user-images.githubusercontent.com/108842368/195430390-0107f75b-50ca-4284-80bd-a5796a6f0309.gif">
+<img align="left" width="180px" src="https://user-images.githubusercontent.com/108842368/195430390-0107f75b-50ca-4284-80bd-a5796a6f0309.gif">
 
 ```kotlin
 object **Diênifer** {
