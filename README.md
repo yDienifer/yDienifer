@@ -1,9 +1,10 @@
-<h1 align="center"> Opa, devs! <img align="center" width="45px" src="https://media.giphy.com/media/Cn29ivPFl9xleVTooX/giphy.gif"></h1>
+<h1 align="center"> Opa, devs! <img align="center" width="45px" src="https://media.giphy.com/media/Cn29ivPFl9xleVTooX/giphy.gif"></h1> 
 
 ![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
 
-<p align="center"> Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmolocal. </p>
+> A programação é o meu refugio
+<img src="https://img.shields.io/static/v1?label=Overview&message=yDienifer&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 ## <img align="right" width="45px" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <p line-height="10px"> **Sobre mim** </p>
 
@@ -20,21 +21,10 @@ object **Diênifer** {
 }
 ```
 
-<h2 align="center"> Linguagens e Ferramentas </h2>
+<h2 align="center"> Minhas stacks </h2> 
 
-<div align="center">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-</div>
 
 ## Estatísticas <img  width="45px" src="https://user-images.githubusercontent.com/108842368/195451782-97fb3849-2e5d-4d2d-a56a-7e8fcee60335.png">
-
-
 
 <div align="center">
   <a href="https://github.com/yDienifer">
@@ -49,3 +39,10 @@ object **Diênifer** {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yDienifer&repo=Landing-page-JoJo&theme=react&hide_border=true"/>
 </a>
 </div>
+
+## Contate-me 
+ 
+ <a href="https://github.com/Ricmaloy"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/ric.zamboni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://ricardozamboni.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>  <a href="mailto:ricardozamboni021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/ricardo-zamboni-3906471b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://www.twitch.tv/ricmaloy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 
+ 
+![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
