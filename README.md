@@ -8,7 +8,7 @@
 
 ## <img align="right" width="45px" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <p line-height="10px"> **Sobre mim** </p>
 
-<img align="left" width="180px" src="https://user-images.githubusercontent.com/108842368/195430390-0107f75b-50ca-4284-80bd-a5796a6f0309.gif">
+<img align="left" width="170px" src="https://user-images.githubusercontent.com/108842368/195430390-0107f75b-50ca-4284-80bd-a5796a6f0309.gif">
 
 ```kotlin
 object **Diênifer** {
@@ -30,10 +30,15 @@ object **Diênifer** {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
+<img width="30px" src="https://user-images.githubusercontent.com/108842368/195473851-b3ddf85e-65fe-481f-a0e2-8257ec8c0311.svg">
+
+          
 
 </div>
 
-## Estatísticas <img  width="45px" src="https://user-images.githubusercontent.com/108842368/195451782-97fb3849-2e5d-4d2d-a56a-7e8fcee60335.png">
+## 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
   <a href="https://github.com/yDienifer">
