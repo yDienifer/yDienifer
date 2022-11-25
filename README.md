@@ -47,7 +47,7 @@ object **Diênifer** {
  ## <img width="32px" src="https://user-images.githubusercontent.com/108842368/195440656-ca754e6a-0526-4fbe-80d4-f0a29abcc255.gif"> Repositórios favoritos
 
 <div align="center">
- <a href="https://github.com/yDienifer/Landing-page-JoJo">
+ <a href="https://github.com/yDienifer/Landing-Page-Mate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yDienifer&repo=Landing-page-JoJo&theme=city_lights&hide_border=true"/>
 </a>
 </div>
