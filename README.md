@@ -20,7 +20,7 @@
 <h1 align="center">Contato</h1>
 <div align="center">
  <a href=""><img src="https://img.shields.io/badge/Gmail-1419A3?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-1419A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/mwlite/in/di%C3%AAnifer-siqueira-08b4aa247"><img src="https://img.shields.io/badge/LinkedIn-1419A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/dienifer.dev/"><img src="https://img.shields.io/badge/Instagram-1419A3?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </div>
 
