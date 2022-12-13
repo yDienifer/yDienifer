@@ -21,7 +21,7 @@
 <div align="center">
  <a href=""><img src="https://img.shields.io/badge/Gmail-1419A3?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/LinkedIn-1419A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Instagram-1419A3?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/dienifer.dev/"><img src="https://img.shields.io/badge/Instagram-1419A3?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </div>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1419A3&height=120&section=footer"/>
