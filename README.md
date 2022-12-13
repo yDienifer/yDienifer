@@ -17,9 +17,6 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## Projeto favorito <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
-[transparent_repo]: https://github-readme-stats.vercel.app/api/pin/?username=yDienifer&repo=Alexandre-Cabanel-Website&cache_seconds=86400&theme=transparent
-
 <h1 align="center">Contato</h1>
 <div align="center">
  <a href=""><img src="https://img.shields.io/badge/Gmail-1419A3?style=for-the-badge&logo=gmail&logoColor=white"></a>
