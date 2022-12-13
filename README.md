@@ -1,6 +1,6 @@
 ![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1419A3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diênifer+Siqueira;I'm+17+years+old;I'm+from+Brasil;I'm+front-end+student.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1419A3&size=38&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diênifer+Siqueira;I'm+17+years+old;I'm+from+Brasil;I'm+front-end+student.)
 
 ## Statistics <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
 [![card](https://github-readme-stats.vercel.app/api?username=yDienifer&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
