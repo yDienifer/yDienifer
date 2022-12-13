@@ -1,6 +1,6 @@
 ![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
-> Olá! Me chamo Diênifer Siqueira, tenho 17 anos e moro no Brasil. Curto um bom rock, e também, um ótimo café.
+> Olá! Me chamo Diênifer Siqueira, tenho 17 anos e moro no Brasil. Curto um bom rock, e também, um cafézinho.
 
 ## Statistics <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
 [![card](https://github-readme-stats.vercel.app/api?username=yDienifer&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,21 +8,21 @@
 
  ## Habilidades <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
  <div>
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML-1419A3?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1419A3?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-1419A3?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-1419A3?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-1419A3?style=for-the-badge&logo=sass&logoColor=white">
  </div>
 
 ### Estudando:
  <div>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-1419A3?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-1419A3?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-1419A3?style=for-the-badge&logo=sass&logoColor=white">
  </div>
 
-<h1 align="center">Contato</h1>
+<h1 align="center">Contato <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px"></h1> 
 <div align="center">
 <a href="https://www.linkedin.com/mwlite/in/di%C3%AAnifer-siqueira-08b4aa247"><img src="https://img.shields.io/badge/LinkedIn-1419A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/dienifer.dev/"><img src="https://img.shields.io/badge/Instagram-1419A3?style=for-the-badge&logo=instagram&logoColor=white"></a>
