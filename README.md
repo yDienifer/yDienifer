@@ -1,22 +1,26 @@
 ![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1419A3&size=38&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diênifer+Siqueira;I'm+17+years+old;I'm+from+Brasil;I'm+front-end+student.)
+> Olá! Me chamo Diênifer Siqueira, tenho 17 anos e moro no Brasil. Curto um bom rock, e também, um ótimo café.
 
 ## Statistics <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
 [![card](https://github-readme-stats.vercel.app/api?username=yDienifer&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![yDienifer](https://github-readme-stats.vercel.app/api/top-langs/?username=yDienifer&hide=html&layout=compact=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Habilidades <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <div>
+ <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+ </div>
 
 ### Estudando:
+ <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+ </div>
 
 <h1 align="center">Contato</h1>
 <div align="center">
