@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/TypeScript-1419A3?style=for-the-badge&logo=typescript&logoColor=white">
  </div>
 
-<h2 align="center">Contato <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px"></h2> 
+<h2 align="center"> Contato <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px"></h2> 
 <div align="center">
 <a href="https://www.linkedin.com/mwlite/in/di%C3%AAnifer-siqueira-08b4aa247"><img src="https://img.shields.io/badge/LinkedIn-1419A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/dienifer.dev/"><img src="https://img.shields.io/badge/Instagram-1419A3?style=for-the-badge&logo=instagram&logoColor=white"></a>
