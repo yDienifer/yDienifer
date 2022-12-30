@@ -8,7 +8,7 @@
 
  ## Habilidades <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
  <div>
- <img src="https://img.shields.io/badge/HTML-1419A3?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-1419A3?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1419A3?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-1419A3?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Node.js-1419A3?style=for-the-badge&logo=node.js&logoColor=white">
