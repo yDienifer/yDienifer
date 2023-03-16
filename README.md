@@ -1,6 +1,6 @@
 ![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
 
-> Olá! Me chamo Diênifer Siqueira, tenho 17 anos e moro no Brasil. Curto um bom rock, e também, um cafézinho.
+> Olá! Me chamo Diênifer Siqueira, tenho 17 anos e moro no Brasil. Curto um bom rock e também um cafezinho.
 
 ## Estatísticas <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
 [![card](https://github-readme-stats.vercel.app/api?username=yDienifer&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
