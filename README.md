@@ -21,8 +21,8 @@
 ### Estudando:
  <div>
 <img src="https://img.shields.io/badge/JavaScript-1419A3?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Sass-1419A3?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/React-1419A3?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-1419A3?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-1419A3?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
  </div>
 
 <h2 align="center"> Contato <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px"></h2> 
