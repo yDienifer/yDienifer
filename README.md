@@ -4,7 +4,6 @@
 
 ## Estatísticas <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
 [![card](https://github-readme-stats.vercel.app/api?username=yDienifer&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![yDienifer](https://github-readme-stats.vercel.app/api/top-langs/?username=yDienifer&hide=html&layout=compact=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Habilidades <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px">
  <div>
