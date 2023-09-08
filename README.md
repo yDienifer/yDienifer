@@ -1,4 +1,4 @@
-![developer](https://user-images.githubusercontent.com/108842368/195429031-87f9a951-0465-4b34-bf1e-846c4d4280b6.gif)
+![developer]!(https://github.com/yDienifer/yDienifer/assets/108842368/a1d27ba7-de6a-4ac4-b87e-3867992566f4)
 
 > Olá! Me chamo Diênifer Siqueira, tenho 17 anos e moro no Brasil. Curto um bom rock e também um cafezinho.
 
