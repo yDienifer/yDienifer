@@ -23,10 +23,10 @@
 <h2 align="center"> Contato </h2>
   
 <div align="center">
-  <a href="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:dienifersiqueira.dev@gmail.com?subject=&body=" alt="Gmail">
+  <a href="mailto:dienifersiqueira.dev@gmail.com?subject=&body=" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:dienifersiqueira.dev@gmail.com?subject=&body=" /></a>
 
-  <a href="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di%C3%AAnifer-siqueira-08b4aa247/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/di%C3%AAnifer-siqueira-08b4aa247/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di%C3%AAnifer-siqueira-08b4aa247/" /></a>
 
   <a href="https://www.instagram.com/dienifer.dev/" alt="Instagram">
