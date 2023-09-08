@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá! Me chamo Diênifer Siqueira, tenho 18 anos e moro no Brasil. <strong>Profissional em desenvolvimento front-end</strong> com perspectivas de expansão para o campo de back-end, além de ser um <strong>estudante dedicado de cibersegurança ofensiva :)</strong>
+<p align="left">
+  Olá! Me chamo Diênifer Siqueira, tenho 18 anos e moro no Brasil. Sou <strong>formado em desenvolvimento front-end</strong> com perspectivas de expansão para o campo de back-end, além de ser um <strong>estudante dedicado de cibersegurança ofensiva :)</strong>
 </p>
 
 <div align="left">
@@ -20,15 +20,16 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<h2 align="center"> Contato <img src="https://user-images.githubusercontent.com/108842368/207351683-4d09657c-ff9a-424c-871a-5280a1e874b8.gif" width="24px"></h2> 
+<h2 align="center"> Contato </h2>
+  
 <div align="center">
-  <a href="#" alt="Gmail">
+  <a href="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:dienifersiqueira.dev@gmail.com?subject=&body=" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:dienifersiqueira.dev@gmail.com?subject=&body=" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di%C3%AAnifer-siqueira-08b4aa247/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di%C3%AAnifer-siqueira-08b4aa247/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/dienifer.dev/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dienifer.dev/"/></a>
  </div>
 
