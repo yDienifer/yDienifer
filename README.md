@@ -19,12 +19,11 @@ class Desenvolvedor {
   }
 }
 
-class Skills extends Desenvolvedor {
+class Habilidades extends Desenvolvedor {
   constructor() {
     super();
     this.linguagens = ["HTML5", "CSS3", "Sass", "JavaScript", "TypeScript", "Python"];
-    this.bibliotecas = ["Vue.js", "React.js"];
-    this.frameworks = ["Django"];
+    this.bibliotecas = ["Django", "React.js", "Next.js", "Vue.js" ];
   }
 }
 ```
