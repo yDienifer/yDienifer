@@ -6,8 +6,6 @@
 
 > &#9733; Eu sou Diênifer Siqueira, tenho 18 anos e sou do Brasil. Formada em desenvolvimento front-end, estou em busca de expandir meu conhecimento para o campo de back-end. Além disso, sou um estudante dedicado de cibersegurança ofensiva. Sempre supero os bugs acompanhada do som do Metallica nos fones de ouvido e com uma boa xícara de café. 🤘🏻☕
 
-> &#9733; Atualmente, estou imerso no planejamento de um projeto com React.js. Trata-se de um aplicativo de lista de tarefas com temática inspirada em BNHA (Boku no Hero Academia).
-
 &nbsp;
 
 ```
