@@ -28,7 +28,7 @@
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRmOGluMnVnZHVwMzRtOWYzYmRybGoyZXV1bGo5NDh6aHpyOHI4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuzHGWHXNdwWlEBUNK/giphy.gif" width="40%" />
     </td>
     <td>
-      &#9733; Olá! Eu sou Diênifer Siqueira, tenho 19 anos e sou do Brasil. Com dedicação, me formei em desenvolvimento front-end e estou embarcando em uma nova jornada como estudante de back-end e técnica em enfermagem. A programação se tornou um hobby apaixonante, e, estranhamente, quanto mais me aprofundo, mais amor sinto por ela. Estudo tanto enfermagem quanto programação com as músicas do Linkin Park, que me encantaram em 2022.
+      &#9733; Eu sou Diênifer Siqueira, tenho 19 anos e sou do Brasil. Com dedicação, formei-me em desenvolvimento front-end e estou embarcando em uma nova jornada como estudante de back-end e técnica em enfermagem. A programação se tornou um hobby apaixonante e, curiosamente, quanto mais me aprofundo, mais amor sinto por ela. Estudo tanto enfermagem quanto programação com as músicas do Linkin Park, que me encantaram em 2022.
     </td>
   </tr>
 </table>
