@@ -7,7 +7,7 @@
 <div align="center">
   <h1>
     Olá! Seja bem-vindo(a)!
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lobzRyNmV0NWdpem13MzlxYTBqYWF2dmp6dnExNm12cmFjeGV3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PZShNCt8E51Ti/giphy.gif" width="8%" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lobzRyNmV0NWdpem13MzlxYTBqYWF2dmp6dnExNm12cmFjeGV3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PZShNCt8E51Ti/giphy.gif" width="10%" />
   </h1>
 </div>
 
